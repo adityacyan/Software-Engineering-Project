@@ -25,7 +25,7 @@
 ## 2. Resource Feasibility
 
 ### Human Resources
-- 1–2 AI/ML engineers (OCR & LLM integration).  
+- 1 AI/ML engineers (OCR & LLM integration).  
 - 1 backend developer, 1 frontend developer.  
 - 1 QA tester.  
 - 1 project manager.  

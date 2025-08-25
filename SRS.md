@@ -1,6 +1,6 @@
 # Software Requirement Specification (SRS)  
 **Project Name:** Automated Exam Paper Evaluation System  
-**Version:** 1.02  
+**Version:** 1.0 
 **Prepared For:** School & College Teachers  
 
 ---
